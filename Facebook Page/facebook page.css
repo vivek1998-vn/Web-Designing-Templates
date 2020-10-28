@@ -1,0 +1,74 @@
+.header
+{
+color: white;
+background-color: cornflowerblue;
+height: 80px;
+}
+.header h1
+{
+float: left;
+margin-left: 130px;
+margin-top: 30px;
+}
+.email
+{
+float: right;
+margin-top: 10px;
+margin-right: 30px;
+    
+}
+.password
+{
+margin-right: 200px;
+float: right;
+margin-top: 10px;
+}
+.password .button{
+background-color: #115ee9;
+border: none;
+color: white;
+}
+.form{
+    float:right;
+}
+.headimg
+{
+    float:left;
+}
+.form .box
+{
+    width:320px;
+}
+.text
+{
+    float: right;
+    font-size: 9px;
+    margin-right: 190px;
+}
+button
+{
+    color: white;
+    background-color: #80f809;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+
+}
+.form{
+    margin-right:180px;
+}
+img{
+    height:250px;
+    width:450px;
+}
+.headimg{
+    clear:left;
+    margin-left:130px;
+}
+.showcase
+{
+    background-color: snow;
+    height: 600px;
+}
+}

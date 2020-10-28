@@ -1,0 +1,132 @@
+body{
+    background-image: url(../img/school.png);
+    background-size: cover;
+    background-attachment:scroll;
+    margin:0px;
+}
+
+nav{
+    background-color:white;
+    margin-top:20px;
+    opacity:0.7;
+}
+
+.img
+{
+    margin-top: 5px;
+    margin-left:80px;
+}
+
+ul
+{
+    margin-top:40px;
+    float:right;
+}
+
+ul li 
+{
+    display:inline;
+    margin-left:5px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color:black;
+    font-size:30px;
+    padding:10px;
+}
+
+ul li a:hover{
+    background-color: salmon;
+    border-radius:20px;
+    opacity:1;
+}
+
+.section 
+{
+width:70%;
+margin:0 auto;
+color:white;
+margin-top:200px;
+}
+.section button
+{
+    color:white;
+    background-color: red;
+    border-radius:10px;
+    padding:10px;
+    border:none;
+}
+.section a:hover{
+    border:1px solid white;
+}
+.features
+{
+ width:70%;
+ margin:0 auto;
+ margin-top:100px;   
+}
+.features button{
+    padding: 10px 30px;
+    margin-left:10px;
+}
+
+
+.cs img{
+    width:250px;
+    height:250px;
+    border-radius:20px;
+    border:2px solid white ;
+}
+.showcase
+{
+    margin-top:100px;
+}
+
+.showcase h1{
+    color:white;
+    text-align:center;
+}
+
+.courses
+{
+    margin:0 auto;    
+}
+.courses .cs{
+    display: inline-block;
+    margin-left:40px;
+    text-align: center;
+    color:white;
+}
+.courses .cs button
+{
+    color:white;
+    background-color: red;
+    border-radius:5px;
+    border:none;
+    padding:3px 5px;
+}
+.courses .cs button:hover{
+    border:1px solid white;
+}
+
+.red
+{
+    margin-top:50px;
+    color:white;
+    text-align:center;
+    background-color:black;
+    opacity:0.7;
+    font-size:20px;
+    margin-bottom:0px;
+}
+.red p{
+    padding:25px 0px;
+}
+
+body{
+margin:0px;
+}
+
+

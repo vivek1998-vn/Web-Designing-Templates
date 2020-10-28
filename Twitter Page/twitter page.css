@@ -1,0 +1,54 @@
+*
+{
+    margin: 0px;
+    padding:0px;
+}
+.login
+{
+    text-align:center;
+width: 50%;
+margin: 0 auto;
+}
+
+img{
+    height: 100px;
+}
+
+h1{
+font-size: 25px;
+    margin-bottom: 20px;
+}
+
+input
+{
+   
+width: 500px;
+margin-bottom: 20px;
+border:none;
+border-bottom: 3px solid #000000b3;
+background-color: #0eb2f65c;
+padding:8px 0px 31px 8px;
+}
+
+button{
+    width: 500px;
+    border: none;
+    height: 50px;
+    background-color: skyblue;
+    border-radius: 200px;
+    color: white;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+p{
+    margin-top:20px;
+}
+
+p a
+{
+text-decoration: none;
+color:rgb(16, 194, 243);
+}
+
+p
